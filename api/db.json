@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "a stream",
+      "id": 1
+    },
+    {
+      "title": "second stream",
+      "description": "my second",
+      "id": 2
+    },
+    {
+      "title": "second stream",
+      "description": "my second",
+      "id": 3
+    },
+    {
+      "title": "other stream",
+      "description": "another",
+      "id": 4
+    },
+    {
+      "title": "edit stream again agaaiin",
+      "description": "edit stream again",
+      "id": 5
+    },
+    {
+      "title": "patch coloca algumas informações e não destroi as que estavam antes",
+      "description": "use patch",
+      "userId": "106063898760140130489",
+      "id": 7
+    }
+  ]
+}
